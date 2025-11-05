@@ -32,4 +32,4 @@ Crafting these views required a blend of analytical prowess and creativity, resu
 
 ## Live Dashboard
 
-Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMjZhMDBhMDQtZmI0Ny00ZWQ5LTlhZGYtODRmYjMyZDgwMzA4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9). [here]([https://app.powerbi.com/view?r=eyJrIjoiMGU5MmU4MWMtNWYzNC00Y2M4LWEzOTItZDM2NGI4YWYxMDkyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]).
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMGU5MmU4MWMtNWYzNC00Y2M4LWEzOTItZDM2NGI4YWYxMDkyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
